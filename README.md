@@ -151,7 +151,7 @@ Reference notes:
 
 .NET Core SDK 2.x downloads can be found here: [.NET Core SDK 2.x Installers and Binaries](Downloads2.x.md)
 
-[win-x64-badge-main]: https://aka.ms/dotnet/7.0.1xx/daily/win_x64_Release_version_badge.svg
+[win-x64-badge-main]: https://riarenastests.blob.core.windows.net/badge/win_x64_Release_version_badge.svg?sv=2020-04-08&st=2022-01-21T18%3A23%3A57Z&se=2022-01-22T18%3A23%3A57Z&sr=b&sp=r&sig=OcowK4BeRWy54RW3WG%2FLmWG2f9vCKcXv2bTmv%2BXtc8A%3D
 [win-x64-version-main]: https://aka.ms/dotnet/7.0.1xx/daily/productCommit-win-x64.txt
 [win-x64-installer-main]: https://aka.ms/dotnet/7.0.1xx/daily/dotnet-sdk-win-x64.exe
 [win-x64-installer-checksum-main]: https://aka.ms/dotnet/7.0.1xx/daily/dotnet-sdk-win-x64.exe.sha
